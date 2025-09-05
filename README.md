@@ -1,4 +1,4 @@
-# 🍽️ MERN Restaurant Web App
+# 🍽️ Food Delivery Web App
 
 A full-stack **Restaurant Web Application** built with the **MERN stack (MongoDB, Express.js, React, Node.js)**.  
 The project provides a complete online food ordering experience for customers and an admin panel to manage food items and orders.
