@@ -14,7 +14,7 @@ The project provides a complete online food ordering experience for customers an
 
 ### 🛠️ Admin Panel
 - Add new food items  
-- Manage food items (update / delete)  
+- Manage food items (delete)  
 - View all customer orders  
 - Update and manage order statuses  
 
@@ -27,7 +27,7 @@ The project provides a complete online food ordering experience for customers an
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Vite, CSS/Bootstrap (custom UI)  
+- **Frontend:** React, CSS
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Authentication:** JWT, bcrypt  
